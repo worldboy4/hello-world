@@ -1,4 +1,4 @@
 # hello-world
 My first repository.
 
-Testing testing. 
+Edited: Removed "testing" notice
